@@ -1,7 +1,10 @@
-Нет новых объявлений
+Проблемы с работой скрипта в Firefox
 ❕ [Руководство пользователя](https://pastebin.com/QiFUQ2n7) - рекомендую ознакомиться **ВСЕМ**.
 ❕ [Отметьтесь здесь](https://docs.google.com/forms/d/e/1FAIpQLSeh6n_dCzlmE_DwE8wbWg3ADYhzRvmHrHPr5TIhsu2PWeJVRw/viewform?usp=sf_link) - посчитаем, сколько человек использует MetaBot.
 ❕ [Телеграм-канал](https://t.me/YTObserver).
+
+__***12 июля 2018***__:
+Для пользователей Firefox, испытывающих проблемы с работой скрипта: [https://github.com/asrdri/yt-metabot-user-js/issues/29](https://github.com/asrdri/yt-metabot-user-js/issues/29)
 
 __***17 июня 2018***__:
 Новое обновление MetaBot, ознакомиться можно здесь - [https://www.youtube.com/watch?v=zkHfPbg8Yts](https://www.youtube.com/watch?v=zkHfPbg8Yts)
