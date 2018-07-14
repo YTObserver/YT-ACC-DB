@@ -8,6 +8,7 @@ __***14 июля 2018***__:
 Сделал текстовый отчёт по ботам-СММщикам. Читайте, где вам удобнее:
 [https://vk.com/wall-159378864_3611](https://vk.com/wall-159378864_3611)
 [https://t.me/YTObserver/118](https://t.me/YTObserver/118)
+
 __***12 июля 2018***__:
 Для пользователей Firefox, испытывающих проблемы с работой скрипта: [https://github.com/asrdri/yt-metabot-user-js/issues/29](https://github.com/asrdri/yt-metabot-user-js/issues/29)
 
