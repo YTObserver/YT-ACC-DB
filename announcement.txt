@@ -1,7 +1,11 @@
-Баг исправлен, обновите скрипт в настройках расширения
+Репорты снова отключены
 ❕ [Руководство пользователя](https://pastebin.com/QiFUQ2n7) - рекомендую ознакомиться **ВСЕМ**.
 ❕ [Отметьтесь здесь](https://docs.google.com/forms/d/e/1FAIpQLSeh6n_dCzlmE_DwE8wbWg3ADYhzRvmHrHPr5TIhsu2PWeJVRw/viewform?usp=sf_link) - посчитаем, сколько человек использует MetaBot.
 ❕ [Телеграм-канал](https://t-do.ru/YTObserver).
+
+__***23 ноября 2018***__:
+Репорты снова отключены. Всё очень плохо.
+[https://vk.com/public159378864](https://vk.com/public159378864) [https://t-do.ru/YTObserver/228](https://t-do.ru/YTObserver/228)
 
 __***21 ноября 2018***__:
 Баг подкрался незаметно
